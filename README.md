@@ -1,5 +1,5 @@
 # Coffee Scale 
-The Coffee Scale is a DIY project built using a Raspberry Pi Pico and various electronic components. It measures coffee weight in real-time and displays the data on a small OLED screen. The goal of this project is to accurately track coffee quantity during brewing.
+The Coffee Scale is a DIY project built using a Raspberry Pi Pico and various electronic components. It measures coffee weight in real-time and displays the data on a small OLED screen. The goal of this project is to accurately track coffee quantity during brewing. [Watch the Coffee Scale Demo Video ](https://drive.google.com/file/d/1S4SgsUTVMrDj_jWiqAowhkJdZMBEn26B/view?usp=drive_link)
 
 ### Installation
 Python 
@@ -79,5 +79,3 @@ A-    -> white : Signal output (-)
 A+    -> green : Signal output (+)	
 
 ```
-___
-[Watch the Coffee Scale Demo Video ](https://drive.google.com/file/d/1S4SgsUTVMrDj_jWiqAowhkJdZMBEn26B/view?usp=drive_link)
