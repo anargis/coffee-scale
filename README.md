@@ -1,7 +1,5 @@
 # Coffee Scale 
-The Coffee Scale is a DIY project using Raspberry Pi Pico 2 W with WiFi & Bluetooth, Header Kit for Raspberry Pico - 20Pin x2 & 3Pin x1, OLED Module 0.96" 128x64 - I2C White, Breadboard 400 Tie Point - White (Half-Size), HX711 (Soldered Header), Load Cell - 10kg, Jumper Wires 30cm Female to Male, USB to Micro USB Power Cable to measure coffee scale. This project helps track coffee quantity and display real-time weight on an OLED screen.
-
-## Commands
+The Coffee Scale is a DIY project built using a Raspberry Pi Pico and various electronic components. It measures coffee weight in real-time and displays the data on a small OLED screen. The goal of this project is to accurately track coffee quantity during brewing.
 
 ### Installation
 Python 
@@ -81,3 +79,5 @@ A-    -> white : Signal output (-)
 A+    -> green : Signal output (+)	
 
 ```
+___
+[Watch the Coffee Scale Demo Video ](https://drive.google.com/file/d/1S4SgsUTVMrDj_jWiqAowhkJdZMBEn26B/view?usp=drive_link)
